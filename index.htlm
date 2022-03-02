@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello!</title>
+    <title>papa yoyo</title>
     <meta name="description" content="description"/>
     <meta name="author" content="author" />
     <meta name="keywords" content="keywords" />
@@ -10,6 +10,9 @@
     <style type="text/css">.body { width: auto; }</style>
   </head>
   <body>
-
+  <h1> Ce titre h1 a été ajouté en local <h1/>
+  <section>
+  Si ça fonctionne, j'en fait mon métier.
+  <section/>
   </body>
 </html>
